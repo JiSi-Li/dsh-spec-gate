@@ -1,0 +1,3 @@
+- insert:
+    - id: spec-gate
+      name: '@local/dsh-spec-gate'
